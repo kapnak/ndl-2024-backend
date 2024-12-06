@@ -1,7 +1,7 @@
-# MovaisCode
+# Worst Code Ever
 
 Sur ce github se trouve le backend de notre projet pour la nuit de l'info :
-http://84.5.167.233/
+http://176.166.203.236/
 
 Il permet au jeu de créer des joueurs, récupérer les questions, récupérer le leaderboard, poster des réponses ...
 
@@ -19,8 +19,5 @@ Et oui il n'y a rien dans les fichiers ;)
 
 Vous pouvez vous aussi d'essayer de créer votre code en réutilisant le main.py et en codant votre petit programme avec des fichiers c'est très sympatique.
 Attention, les fichiers sont ordonnées par date de modification alors réfléchissez bien avant d'écrire car ajouter une ligne peut s'avérer très couteux !
-
-Vous pouvez tester l'API REST du backend à l'adresse :
-http://176.129.190.250:5000
 
 C'est fonctionnel !
